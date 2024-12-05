@@ -8,7 +8,7 @@ Bem-vindo ao **Pokédex**, um projeto desenvolvido com o objetivo de explorar e 
 O projeto tem como foco o aprendizado e a prática no consumo de APIs RESTful, além de aplicar conceitos de desenvolvimento front-end e design responsivo, O intuito do projeto é requisitar os dados no servidor e traduzir o conteudo recebido no formato apropriado do meu codigo.  
 
 ## 👏 Creditos 
-Gostaria de agradecer a outro aluno da DIO
+Gostaria de agradecer a outro aluno da DIO que disponibilizou o arquivo com os modelos 3D, eu perdi o link de acesso ao repositorio dele então não lembro seu nome, mas meus sinceros agradecimentos.
 
 ## 🛠️ Tecnologias Utilizadas  
 - **HTML5**: Estrutura do projeto.  

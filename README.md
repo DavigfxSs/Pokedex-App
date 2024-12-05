@@ -21,7 +21,11 @@ Gostaria de agradecer a outro aluno da DIO
 - Visualizar uma lista de Pokémon com seus nomes e imagens.  (Atualmente a lista consta com 300 pokemons diferentes, porém na pasta Assets/ tem mais 400 pokemons para serem ajustados em futuros commits.)
 - Paginação para navegar entre diferentes grupos de Pokémon.  
 - Exibir detalhes específicos de cada Pokémon, como tipos e habilidades.  
-- Design responsivo para dispositivos móveis e desktops.  
+- Design responsivo para dispositivos móveis e desktops.
+
+##  👀 Visão do projeto.
+![Descrição da Imagem](assets/img/Captura de tela 2024-12-05 125550.png)
+
 
 ## 🌐 Como Usar  
 1. Clone este repositório:  

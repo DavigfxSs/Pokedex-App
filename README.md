@@ -24,7 +24,7 @@ Gostaria de agradecer a outro aluno da DIO
 - Design responsivo para dispositivos móveis e desktops.
 
 ##  👀 Visão do projeto.
-![Descrição da Imagem](assets/img/Captura de tela 2024-12-05 125550.png)
+![Descrição da Imagem](assets/img/screenshot.png)
 
 
 ## 🌐 Como Usar  

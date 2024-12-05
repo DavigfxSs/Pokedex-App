@@ -19,6 +19,7 @@ Gostaria de agradecer a outro aluno da DIO que disponibilizou o arquivo com os m
 
 ## 🚀 Funcionalidades  
 - Visualizar uma lista de Pokémon com seus nomes e imagens.  (Atualmente a lista consta com 300 pokemons diferentes, porém na pasta Assets/ tem mais 400 pokemons para serem ajustados em futuros commits.)
+- Modelos 3d dos pokemons em formato GIF.
 - Paginação para navegar entre diferentes grupos de Pokémon.  
 - Exibir detalhes específicos de cada Pokémon, como tipos e habilidades.  
 - Design responsivo para dispositivos móveis e desktops.
